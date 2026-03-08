@@ -1,1 +1,163 @@
-Test file
+Act as a senior product designer, brand designer, motion design director, and UI system architect.
+
+I want you to help me create a complete reusable digital asset system for my brand that can be used across:
+
+1. Motion graphics videos and explainer videos
+2. Social media video assets
+3. Mobile app UI
+4. Web app UI
+5. Marketing website sections
+6. Product mockups and presentations
+
+Your goal is NOT to generate random visuals. Your goal is to create a cohesive, scalable, modern visual system that feels like one unified brand across product UI and motion design.
+
+## Brand context
+Brand name: [INSERT BRAND NAME]
+Brand mission: [INSERT MISSION]
+Brand personality: [example: futuristic, cinematic, premium, intelligent, approachable, creative, technically advanced]
+Target audience: [INSERT AUDIENCE]
+Primary use cases: [example: AI product, consulting brand, educational platform, SaaS product, creative tech studio]
+Visual tone: [example: modern, minimal, high-end, cinematic, clean, emotionally engaging]
+Inspiration references: [list brands, apps, or design styles you like]
+
+## Deliverables I want
+Create a full digital asset system that includes the following:
+
+### A. Brand visual foundation
+- Brand style direction
+- Color palette with primary, secondary, accent, neutral, and background colors
+- Typography recommendations with hierarchy
+- Spacing system
+- Border radius system
+- Shadows, glow treatments, blur styles, gradients, overlays
+- Iconography style
+- Illustration style
+- Image treatment direction
+- Rules for consistency across motion and UI
+
+### B. UI design system
+Create a reusable UI kit for mobile and web including:
+- Buttons
+- Inputs
+- Search bars
+- Dropdowns
+- Toggles
+- Tabs
+- Cards
+- Profile modules
+- Stats modules
+- Navigation bars
+- Sidebars
+- Modals
+- Toast notifications
+- Tables or list views
+- Chat or assistant panels if relevant
+- Dashboard widgets if relevant
+- Empty states
+- Loading states
+- Error states
+
+For each component define:
+- Purpose
+- Visual style
+- States
+- Suggested spacing
+- Suggested motion behavior
+- Mobile and web usage notes
+
+### C. Motion graphics asset library
+Create a motion graphics visual kit including:
+- Title cards
+- Lower thirds
+- Kinetic typography styles
+- Scene transition concepts
+- Animated icon behavior
+- Background loops
+- Data visualization graphics
+- UI demo callout styles
+- Framing devices
+- Containers and HUD-style overlays if relevant
+- Progress indicators
+- Intro animation direction
+- Outro animation direction
+
+For each motion asset define:
+- What it is for
+- Visual style
+- Animation behavior
+- Best timing/duration
+- Where it should be used
+- How it should connect visually back to the UI system
+
+### D. Cross-platform consistency rules
+Define a system so that the mobile UI, web UI, and motion graphics all feel like the same brand. Include:
+- shared colors
+- shared typography
+- shared shapes
+- shared animation principles
+- shared lighting/glow/gradient language
+- shared icon language
+- shared composition rules
+
+### E. Page and screen concepts
+Generate example layouts for:
+- Landing page hero
+- Feature section
+- Pricing section
+- Mobile onboarding flow
+- Mobile dashboard
+- Web dashboard
+- Settings page
+- Analytics page
+- Video scene frame mockup using the brand system
+- Social promo card or short-form video frame
+
+### F. Motion principles
+Define animation principles for the brand such as:
+- speed
+- easing
+- transitions
+- entrance and exit patterns
+- hover motion
+- loading motion
+- loop motion
+- premium vs playful motion balance
+
+### G. Asset production system
+Recommend:
+- which assets should be vector
+- which should be raster
+- which should be designed for animation layers
+- naming convention for files
+- folder structure for design assets
+- export guidance for web, mobile, and video use
+- how to structure assets for handoff to developers and motion designers
+
+## Output format
+Respond in this exact structure:
+
+1. Brand visual system overview
+2. Art direction summary
+3. Color palette
+4. Typography system
+5. UI component system
+6. Motion graphics asset system
+7. Cross-platform design rules
+8. Example screens and layouts
+9. Asset production and export guidance
+10. Recommended next steps
+
+## Important constraints
+- Make the design system feel premium, modern, and highly reusable
+- Avoid generic startup visuals
+- Avoid inconsistent styles between product UI and motion graphics
+- Prioritize modularity and reuse
+- Think like a design systems lead, not just a screen designer
+- Make recommendations that can realistically be built and expanded
+- If useful, organize the system into foundational tokens, reusable components, and scene assets
+- Prefer a clean design language that can scale into a full brand ecosystem
+
+At the end, provide:
+- a suggested file/folder structure
+- a token-style design foundation
+- a prioritized build order for creating these assets efficiently
